@@ -6,7 +6,7 @@ public class SurveyController {
     public String answeredResponses {get; set;}
     public Attachment image {get; set;}
     public String state {get; set;}
-    
+    //This is a cooler new comment
     public SurveyController() {
         image = new Attachment();
         answeredResponses = '';
