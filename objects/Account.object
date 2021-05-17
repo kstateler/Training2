@@ -256,6 +256,17 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Days_until_Christmas__c</fullName>
+        <externalId>false</externalId>
+        <label>Days until Christmas</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Days_until_Thanksgiving__c</fullName>
         <externalId>false</externalId>
         <label>Days until Thanksgiving</label>
