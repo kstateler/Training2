@@ -267,6 +267,17 @@
         <unique>false</unique>
     </fields>
     <fields>
+        <fullName>Days_until_Thanksgivingg__c</fullName>
+        <externalId>false</externalId>
+        <label>Days until Thanksgivingg</label>
+        <precision>18</precision>
+        <required>false</required>
+        <scale>0</scale>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Number</type>
+        <unique>false</unique>
+    </fields>
+    <fields>
         <fullName>Description</fullName>
         <trackFeedHistory>false</trackFeedHistory>
     </fields>
